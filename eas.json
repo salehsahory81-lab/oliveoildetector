@@ -10,10 +10,5 @@
         "buildType": "apk"
       }
     }
-  },
-  "submit": {
-    "android": {
-      "serviceAccountKeyPath": "./your-key.json"
-    }
   }
 }
