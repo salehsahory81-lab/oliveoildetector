@@ -1,12 +1,19 @@
 {
+  "cli": {
+    "version": ">=3.11.0"
+  },
   "build": {
     "production": {
-      "autoIncrement": true,
       "developmentClient": false,
-      "distribution": "store"
+      "distribution": "store",
+      "android": {
+        "buildType": "apk"
+      }
     }
   },
-  "cli": {
-    "appVersionSource": "remote"
+  "submit": {
+    "android": {
+      "serviceAccountKeyPath": "./your-key.json"
+    }
   }
 }
