@@ -5,5 +5,8 @@
       "developmentClient": false,
       "distribution": "store"
     }
+  },
+  "cli": {
+    "appVersionSource": "remote"
   }
 }
