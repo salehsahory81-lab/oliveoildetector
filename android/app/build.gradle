@@ -81,9 +81,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.OliveOilDetector'
+    namespace 'com.salehsahory81.oliveoildetector'
     defaultConfig {
-        applicationId 'com.anonymous.OliveOilDetector'
+        applicationId 'com.salehsahory81.oliveoildetector'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

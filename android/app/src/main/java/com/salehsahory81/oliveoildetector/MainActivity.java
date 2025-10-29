@@ -1,4 +1,4 @@
-package com.anonymous.OliveOilDetector;
+package com.salehsahory81.oliveoildetector;
 
 import android.os.Build;
 import android.os.Bundle;
